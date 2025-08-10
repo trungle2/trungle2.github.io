@@ -9,4 +9,6 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-![Sad Puppy](/assets/img/sad_puppy.jpg)
+<p align = "center">
+  <img src = "/assets/img/sad_puppy.jpg" width = "800" height = "800"/>
+</p>
