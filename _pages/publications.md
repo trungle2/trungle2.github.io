@@ -11,10 +11,13 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
-<div class="publications">
+<!-- <div class="publications"> -->
 
-{% bibliography %}
+<!-- {% bibliography %} -->
 
-</div>
+<!-- </div> -->
+
+Pending
+![Sad Puppy](/assets/images/sad_puppy.jpg)
