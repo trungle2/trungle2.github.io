@@ -20,4 +20,4 @@ nav_order: 2
 <!-- </div> -->
 
 Pending
-![Sad Puppy](/assets/images/sad_puppy.jpg)
+![Sad Puppy](/assets/img/sad_puppy.jpg)
