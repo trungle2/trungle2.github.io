@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: <form action="[https://docs.google.com/document/d/1OUjwD68m509l97RdLbUavlmQoE_ZzUq4/edit?usp=sharing&ouid=104379142433105901009&rtpof=true&sd=true](https://drive.google.com/file/d/1ggel7lnvW8P5oK_4-Xem11DrOVSdTx73/view?usp=sharing)" method="get" target="_blank"><button type="submit">view my CV in a new tab</button></form>
+  more_info: <form action="https://drive.google.com/file/d/1ggel7lnvW8P5oK_4-Xem11DrOVSdTx73/view?usp=sharing" method="get" target="_blank"><button type="submit">view my CV in a new tab</button></form>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
