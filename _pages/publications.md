@@ -8,7 +8,8 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
+<div class="publications">
 
-<p align = "center">
-  <img src = "/assets/img/sad_puppy.jpg" width = "800" height = "800"/>
-</p>
+{% bibliography %}
+
+</div>
